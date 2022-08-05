@@ -1,6 +1,6 @@
 A Simple User API build with Laravel 9 REST API Authentication Using Sanctum - CRUD
 
-**This is the link to Heroku [simpleUserAuth-API](https://simple-user-auth-api.herokuapp.com/)**
+**This is the link to Heroku [simpleUserAuth-API](https://simple-user-auth-api.herokuapp.com/) Application**
 
 Firstly after initializing your application, Update the existing User Model and Migration file to have the following fields
 
